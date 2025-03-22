@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="github-banner.png" alt="Muskaan Fayyaz - Full-Stack Developer" width="100%">
+  <img src="https://github.com/muskaanfayyaz/muskaanfayyaz/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner%20(2).png" alt="Muskaan Fayyaz - Full-Stack Developer" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Muskaan Fayyaz!</h1>
