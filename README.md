@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Muskaan Fayyaz!</h1>
 
 <p align="center">
-  <img src="profile-pic.png" width="150" height="150" style="border-radius: 50%;" alt="Muskaan Fayyaz">
+  <img src="(https://github.com/muskaanfayyaz/muskaanfayyaz/blob/main/Screenshot%202024-08-31%20080400_enhanced-removebg-preview%20(1).jpg)" width="150" height="150" style="border-radius: 50%;" alt="Muskaan Fayyaz">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## 🔹 **About Me**  
-I am a **Full-Stack Developer** with a strong background in **modern web technologies** and **e-commerce solutions**. I specialize in **React, Next.js, TypeScript**, and **Headless CMS** to build dynamic, performance-optimized applications. I also have experience in **cloud technologies**, **API development**, and **applied generative AI**.  
+I am a **Frontend Developer** with a strong background in **modern web technologies** and **e-commerce solutions**. I specialize in **React, Next.js, TypeScript**, and **Headless CMS** to build dynamic, performance-optimized applications. I also have experience in **cloud technologies**, **API development**, and **applied generative AI**.  
 
 ### 🎯 **My Focus Areas**  
 ✔️ **Building scalable e-commerce solutions**  
@@ -37,7 +37,6 @@ I am a **Full-Stack Developer** with a strong background in **modern web technol
 ## 💼 **Professional Experience**  
 🔹 **Python Developer Intern** - Oasis Infobyte  
 🔹 **C++ Developer Intern** - Codsoft  
-🔹 **Teacher** - The Educators  
 
 ---
 
@@ -51,18 +50,13 @@ I am a **Full-Stack Developer** with a strong background in **modern web technol
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![API Development](https://img.shields.io/badge/API_Development-FF5733?style=for-the-badge&logo=api&logoColor=white)  
 
 ### **Databases & Headless CMS**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Sanity CMS](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### **Other Technologies & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ### **Programming Languages**  
@@ -77,13 +71,7 @@ I am a **Full-Stack Developer** with a strong background in **modern web technol
 An advanced **Next.js-based e-commerce platform** with a **dynamic product catalog**, **shopping cart**, **wishlist**, and **Sanity CMS integration**.  
 **Technologies Used:** Next.js, TypeScript, Sanity CMS, Tailwind CSS, API Routes  
 
-🔗 [View Project](https://your-ecommerce-site.com) | 🔗 [GitHub Repository](https://github.com/your-username/comforty)  
-
-### 🔹 **Admin Dashboard**  
-A **fully functional admin panel** to manage products, users, and orders for an e-commerce store.  
-**Technologies Used:** Next.js, TypeScript, MongoDB, Express.js  
-
-🔗 [View Project](https://your-admin-dashboard.com) | 🔗 [GitHub Repository](https://github.com/your-username/admin-dashboard)  
+🔗 [View Project]([https://your-ecommerce-site.com](https://comforty-full-ecommerce-website.vercel.app/)) | 🔗 [GitHub Repository](https://github.com/muskaanfayyaz/Comforty-General-E-Commerce)  
 
 ---
 
