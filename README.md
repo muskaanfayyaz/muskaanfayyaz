@@ -54,7 +54,7 @@ I am a **Full-Stack Developer** with expertise in **modern web technologies** an
 
 ### 🔹 **Comforty - General E-commerce Platform**  
 A complete **Next.js e-commerce platform** with a dynamic product catalog, shopping cart, wishlist, and CMS integration.  
-🔗 [View Live](https://comforty-full-ecommerce-website.vercel.app/) | 🔗 [GitHub](https://github.com/muskaanfayyaz/Comforty-General-E-Commerce)  
+🔗 [View Live](https://comforty-full-ecommerce-website.vercel.app/) | 🔗 [GitHub](https://github.com/muskaanfayyaz/comforty-figma-hackathon)  
 
 ### 🔹 **E-Shop - Online Store**  
 A **fully responsive e-commerce store** built using **React, TypeScript, and Sanity CMS**.  
@@ -85,7 +85,7 @@ A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic
 
 ## 📬 **Connect with Me**  
 
-🌐 **Portfolio**: [https://muskaan-portfolio-chi.vercel.app/)  
+🌐 **Portfolio**: https://muskaan-portfolio-chi.vercel.app/  
 💼 **LinkedIn**: [linkedin.com/in/muskaanfayyaz](https://www.linkedin.com/in/muskaanfayyaz)  
 📩 **Email**: [muskaanfayyaz3@gmail.com](mailto:muskaanfayyaz3@gmail.com)  
 
