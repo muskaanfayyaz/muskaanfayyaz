@@ -58,7 +58,7 @@ A complete **Next.js e-commerce platform** with a dynamic product catalog, shopp
 
 ### 🔹 **E-Shop - Online Store**  
 A **fully responsive e-commerce store** built using **React, TypeScript, and Sanity CMS**.  
-🔗 [View Live](https://vercel.com/muskaan-fayyazs-projects/e-shop) | 🔗 [GitHub](https://github.com/muskaanfayyaz/E-Shop)  
+🔗 [View Live](https://e-shop-khaki-xi.vercel.app/) | 🔗 [GitHub](https://github.com/muskaanfayyaz/E-Shop)  
 
 ### 🔹 **TasteHeaven - Resturant Website**  
 A **resturant website** with dynamic menu items, built with **Next.js and Tailwind CSS**.  
@@ -87,7 +87,7 @@ A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic
 
 🌐 **Portfolio**: [https://muskaan-portfolio-chi.vercel.app/)  
 💼 **LinkedIn**: [linkedin.com/in/muskaanfayyaz](https://www.linkedin.com/in/muskaanfayyaz)  
-📩 **Email**: [your-email@example.com](mailto:muskaanfayyaz3@gmail.com)  
+📩 **Email**: [muskaanfayyaz3@gmail.com](mailto:muskaanfayyaz3@gmail.com)  
 
 ---
 
