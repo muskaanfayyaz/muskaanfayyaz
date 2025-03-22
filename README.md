@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Muskaan Fayyaz!</h1>
 
 <p align="center">
-  <img src="(https://github.com/muskaanfayyaz/muskaanfayyaz/blob/main/Screenshot%202024-08-31%20080400_enhanced-removebg-preview%20(1).jpg)" width="150" height="150" style="border-radius: 50%;" alt="Muskaan Fayyaz">
+  <img src="https://github.com/muskaanfayyaz/muskaanfayyaz/blob/main/Screenshot%202024-08-31%20080400_enhanced-removebg-preview%20(1).jpg" width="150" height="150" style="border-radius: 50%;" alt="Muskaan Fayyaz">
 </p>
 
 <p align="center">
@@ -71,22 +71,22 @@ I am a **Frontend Developer** with a strong background in **modern web technolog
 An advanced **Next.js-based e-commerce platform** with a **dynamic product catalog**, **shopping cart**, **wishlist**, and **Sanity CMS integration**.  
 **Technologies Used:** Next.js, TypeScript, Sanity CMS, Tailwind CSS, API Routes  
 
-🔗 [View Project]([https://your-ecommerce-site.com](https://comforty-full-ecommerce-website.vercel.app/)) | 🔗 [GitHub Repository](https://github.com/muskaanfayyaz/Comforty-General-E-Commerce)  
+🔗 [View Project](https://comforty-full-ecommerce-website.vercel.app/) | 🔗 [GitHub Repository](https://github.com/muskaanfayyaz/Comforty-General-E-Commerce)  
 
 ---
 
 ## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanfayyaz&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskaanfayyaz&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskaanfayyaz&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
