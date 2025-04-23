@@ -71,15 +71,16 @@ A **blogging platform** built with **Next.js and Sanity CMS**, featuring dynamic
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanfayyaz&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=muskaanfayyaz&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskaanfayyaz&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 
 ---
 
