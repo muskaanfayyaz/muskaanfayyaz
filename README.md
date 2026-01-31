@@ -11,13 +11,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Muskaan Fayyaz</h1>
-
-<p align="center">
-🚀 Full-Stack Developer • AI Engineer • SaaS & Startup Builder  
-🌐 Next.js | TypeScript | Python | Cloud | LLMs | Generative AI  
-📍 Karachi, Pakistan | 🌎 Open to Remote & Global Opportunities
-</p>
-
 ---
 
 ## 🔹 About Me  
@@ -64,21 +57,51 @@ I enjoy working at the intersection of **software engineering, AI innovation, an
 
 ---
 
-## 🚀 AI Products, Startups & Key Projects  
+## 🚀 AI Products, Startups & Flagship Projects  
 
-### 🔹 UXGenie — AI UX Assistant (Startup)  
-An **AI-powered UX & product assistant** that helps founders and developers improve UX decisions using **LLMs, prompt engineering, and analytics**.  
-**Tech:** Next.js, TypeScript, AI Agents, OpenAI, Cloud APIs  
+### 🔹 UXGenie — AI UX Assistant (Startup / SaaS)  
+An **AI-powered UX and product intelligence platform** designed to help founders, designers, and developers make **data-driven UX decisions** using Large Language Models (LLMs).  
+- AI-powered UX audits and feature recommendations  
+- User-flow analysis and product feedback automation  
+- Built for SaaS teams and early-stage startups  
 
----
-
-### 🔹 YouTube Thumbnail A/B Testing Platform (AI SaaS)  
-A **data-driven AI startup tool** that rotates thumbnails, tracks CTR, impressions, and performance using **YouTube Analytics + AI insights**.  
-**Tech:** Python, Chainlit, LLMs, YouTube API, Automation  
-🔗 GitHub: https://github.com/muskaanfayyaz/YouTube-Thumbnail-AB-Testing  
+**Tech Stack:** Next.js, TypeScript, OpenAI, LangChain, AI Agents, Cloud APIs  
+**Keywords:** AI SaaS, UX Intelligence, LLM Applications, Startup Engineering  
 
 ---
 
+### 🔹 RxAegis — AI Medicine Verification System (HealthTech)  
+An **AI-powered medicine verification and counterfeit detection system** focused on improving **patient safety and pharmaceutical trust**.  
+- Verifies medicines using batch numbers and structured data  
+- Detects counterfeit, expired, or unsafe drugs  
+- Designed for pharmacies, hospitals, and supply-chain systems  
+
+**Tech Stack:** Python, FastAPI, AI Reasoning, Databases, Cloud Architecture  
+**Domain:** HealthTech, AI Safety, Verification Systems  
+
+---
+
+### 🔹 Todo — Spec-Driven Development (SDD) AI Assistant  
+An **AI-powered task and project management system** based on **Specification-Driven Development (SDD)** principles.  
+- Converts specifications into executable tasks  
+- Enforces structured development workflows  
+- CLI-based AI agent for developer productivity  
+
+**Tech Stack:** Python, LLMs (Gemini / OpenAI), AI Agents, CLI Tools  
+**Focus:** Developer Tools, AI Automation, Spec-Driven Development  
+
+---
+
+### 🔹 AI Humanoid Systems — Research & Book Project  
+A **technical research project and book** exploring the design of **humanoid AI systems**, autonomous agents, and human–AI interaction.  
+- Covers AI agents, reasoning systems, and autonomy  
+- Focus on ethical, scalable humanoid intelligence  
+- Written for developers, researchers, and AI enthusiasts  
+
+**Topics:** AI Agents, Cognitive Architectures, LLM Reasoning, Future AI  
+**Format:** Technical Book + Research Project  
+
+---
 ### 🔹 AI Todo CLI Assistant  
 An **AI-powered task management CLI** that understands natural language commands and executes tasks using **LLM agents**.  
 **Tech:** Python, Gemini / OpenAI, Agent Architecture, CLI Tools  
@@ -89,13 +112,6 @@ An **AI-powered task management CLI** that understands natural language commands
 A **production-ready e-commerce system** with CMS, cart, wishlist, and performance optimization.  
 **Tech:** Next.js, Tailwind CSS, Sanity CMS  
 🔗 Live: https://comforty-full-ecommerce-website.vercel.app/  
-
----
-
-### 🔹 Blog & Content Platform  
-SEO-optimized blogging platform with dynamic content and CMS-driven architecture.  
-**Tech:** Next.js, Sanity CMS  
-🔗 Live: https://muskaan-blog.vercel.app/  
 
 ---
 
@@ -113,7 +129,7 @@ SEO-optimized blogging platform with dynamic content and CMS-driven architecture
 
 ## 📬 Connect With Me  
 
-🌐 Portfolio: https://muskaan-portfolio-chi.vercel.app  
+🌐 Portfolio: [visit my website](https://personal-portfolio-zeta-woad.vercel.app/)
 💼 LinkedIn: https://www.linkedin.com/in/muskaanfayyaz  
 📩 Email: muskaanfayyaz3@gmail.com  
 
