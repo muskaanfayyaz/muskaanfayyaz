@@ -101,28 +101,12 @@ A **technical research project and book** exploring the design of **humanoid AI 
 **Format:** Technical Book + Research Project  
 
 ---
-### 🔹 AI Todo CLI Assistant  
-An **AI-powered task management CLI** that understands natural language commands and executes tasks using **LLM agents**.  
-**Tech:** Python, Gemini / OpenAI, Agent Architecture, CLI Tools  
-
----
 
 ### 🔹 Comforty — Full-Scale E-commerce Platform  
 A **production-ready e-commerce system** with CMS, cart, wishlist, and performance optimization.  
 **Tech:** Next.js, Tailwind CSS, Sanity CMS  
 🔗 Live: https://comforty-full-ecommerce-website.vercel.app/  
 
----
-
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanfayyaz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaanfayyaz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
 ---
 
 ## 📬 Connect With Me  
