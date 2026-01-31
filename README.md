@@ -11,7 +11,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Muskaan Fayyaz</h1>
----
 
 ## 🔹 About Me  
 
@@ -118,13 +117,12 @@ A **production-ready e-commerce system** with CMS, cart, wishlist, and performan
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muskaanfayyaz&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanfayyaz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaanfayyaz&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskaanfayyaz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
-
 ---
 
 ## 📬 Connect With Me  
