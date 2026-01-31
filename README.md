@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/u8NyJn2Hj5oc0bWhKpo5Q9lxGW0W2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8NyJn2Hj5oc0bWhKpo5Q9lxGW0W2?theme=light" alt="GitRoll Profile Badge"/></a>
+
 <!-- Banner Image -->
 <p align="center">
   <img src="Muskaan Fayyaz.png" alt="Muskaan Fayyaz - Full-Stack Developer" width="100%">
